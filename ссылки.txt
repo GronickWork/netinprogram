@@ -1,0 +1,4 @@
+ссылка на эту работу: https://gronik4.github.io/StartProgramming/
+ѕеренес на https://github.com/GronickWork/netinprogram.git - так как
+ remote: Permission to GronickWork/netinprogram.git denied to Gronik4.
+fatal: unable to access 'https://github.com/GronickWork/netinprogram.git/': The requested URL returned error: 403
